@@ -7,8 +7,7 @@ Pandas
 
 Sklearn
 
-Dataset
-
+# Dataset
 The code uses the diabetes dataset available on Kaggle (https://www.kaggle.com/uciml/pima-indians-diabetes-database). The dataset contains various attributes related to diabetes diagnosis and is stored in a CSV file. The data is pre-processed and used to train and test the SVM classifier.
 
 # Model
